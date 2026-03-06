@@ -1,4 +1,7 @@
 Nishitha's Multi-Domain Data Analysis Portfolio
+
+
+
 Welcome to my Data Analysis Portfolio!
 This repository showcases my end-to-end data analysis projects built with Python. Each project includes data cleaning, exploratory analysis, visualizations, key insights, and actionable recommendations.
 
